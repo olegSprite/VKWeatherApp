@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  VKWeatherApp
+
+  Created by Олег Спиридонов on 20.07.2024.
+  
+*/
+
+"sun.max" = "Ясно";
+"cloud.rain" = "Дождь";
+"cloud.bolt" = "Гроза";
+"smoke" = "Туман";
+"cloud.sun" = "Облачно";
+"snowflake" = "Снег";
